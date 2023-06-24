@@ -1,0 +1,4 @@
+flask
+seaborn
+scikit-learn
+numpy
